@@ -165,6 +165,10 @@ VITE_API_URL=http://localhost:3000/api
 npm run dev
 ```
 
+## 6. Link de la aplicacion desplegada
+
+https://circuloliterarioec.netlify.app/ 
+
 ---
 
 # 🚀 Funcionalidades Implementadas
