@@ -171,7 +171,7 @@ https://circuloliterarioec.netlify.app/
 
 ---
 
-## 6. Link de video de funcionamiento del sitio web
+## 7. Link de video de funcionamiento del sitio web
 
 https://youtu.be/_LPXppOVqww 
 
